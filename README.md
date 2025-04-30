@@ -34,20 +34,16 @@ Me chamo João Moraes e atualmente faço parte da UFRPE como aluno em Ciência d
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <img align="center" alt="GitHub Stats" height="200"
+           src="https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img align="center" alt="GitHub Stats" height="200"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
