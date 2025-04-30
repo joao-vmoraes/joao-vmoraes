@@ -26,19 +26,8 @@ Me chamo João Moraes, tenho 18 anos e nasci na cidade de Recife-PE. Atualmente 
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   
-  <img 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="Top Langs" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-vmoraes&theme=dark&bg_color=010409&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao-vmoraes&layout=compact&bg_color=010409&border_color=fff&title_color=E94D5F&text_color=FFF)
 
 
 <br/>
