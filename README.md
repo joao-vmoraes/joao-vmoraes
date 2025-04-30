@@ -3,7 +3,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Moraes e atualmente faço parte da UFRPE como aluno em Ciência da Computação, e atualmente me encontro no 1º Período.
+Me chamo João Moraes, tenho 18 anos e nasci na cidade de Recife-PE. Atualmente faço parte da UFRPE como aluno de Bacharelado em Ciência da Computação, e atualmente me encontro no 1º Período.
 
 
 
