@@ -52,6 +52,6 @@ Me chamo João Moraes, tenho 18 anos e nasci na cidade de Recife-PE. Atualmente 
 </div>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 
