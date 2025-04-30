@@ -11,7 +11,6 @@ Me chamo João Moraes, tenho 18 anos e nasci na cidade de Recife-PE. Atualmente 
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="C"
@@ -23,7 +22,7 @@ Me chamo João Moraes, tenho 18 anos e nasci na cidade de Recife-PE. Atualmente 
 <img 
     align="left" 
     alt="Python"
-    title="Pyhton" 
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" 
@@ -32,18 +31,27 @@ Me chamo João Moraes, tenho 18 anos e nasci na cidade de Recife-PE. Atualmente 
 <br/>
 <br/>
 
+<hr/>
+
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img align="center" alt="GitHub Stats" height="200"
-           src="https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td>
-      <img align="center" alt="GitHub Stats" height="200"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+  <img 
+    alt="GitHub Stats" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    alt="Top Langs" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</div>
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
