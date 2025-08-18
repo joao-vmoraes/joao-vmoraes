@@ -26,8 +26,9 @@ Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-vmoraes&theme=dark&bg_color=010409&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao-vmoraes&layout=compact&bg_color=010409&border_color=fff&title_color=E94D5F&text_color=FFF)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&layout=compact&theme=holi)
+  
 
 
 <br/>
