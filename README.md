@@ -6,9 +6,9 @@
 Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da UFRPE como aluno de Bacharelado em Ciência da Computação, e atualmente me encontro no 1º Período.Por aqui você vera minha evolução em projetos e estudos do ensino superior, bem como meus próprios projetos.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-moraes-a42084352/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovmoraes_/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-vmoraes)
+<a href="https://www.linkedin.com/in/joao-vmoraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/joaovmoraes_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/joao-vmoraes" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
 
