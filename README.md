@@ -3,7 +3,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da UFRPE como aluno de Bacharelado em Ciência da Computação, e atualmente me encontro no 1º Período.Por aqui você vera minha evolução em projetos e estudos do ensino superior, bem como meus próprios projetos.
+Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da UFRPE como aluno de Bacharelado em Ciência da Computação, e atualmente me encontro no 2º Período.Por aqui você vera minha evolução em projetos e estudos do ensino superior, bem como meus próprios projetos.
 
 
 <a href="https://www.linkedin.com/in/joao-vmoraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
