@@ -41,8 +41,8 @@ Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=holi&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vmoraes&layout=compact&theme=holi)
+ <img src="https://github-readme-stats-five-pi-91.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=holi&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats-five-pi-91.vercel.app/api/top-langs/?username=joao-vmoraes&layout=compact&theme=holi" />
   
 
 
