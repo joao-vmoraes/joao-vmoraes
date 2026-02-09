@@ -44,7 +44,9 @@ Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da
  <img src="https://github-readme-stats-five-pi-91.vercel.app/api?username=joao-vmoraes&show_icons=true&theme=holi&include_all_commits=true&count_private=true&cache_seconds=1800" />
 <img src="https://github-readme-stats-five-pi-91.vercel.app/api/top-langs/?username=joao-vmoraes&layout=compact&theme=holi&hide=javascript" />
   
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 <br/>
 
