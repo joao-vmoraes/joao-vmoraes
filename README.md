@@ -1,10 +1,25 @@
 
-#  💻João Vitor Moraes de Andrade
+#  👨‍💻João Vitor Moraes de Andrade
 
 **`Desenvolvedor`**
 
-Me chamo João Moraes, tenho 18 anos sou de Recife-PE. Atualmente faço parte da UFRPE como aluno de Bacharelado em Ciência da Computação, e atualmente me encontro no 2º Período.Por aqui você vera minha evolução em projetos e estudos do ensino superior, bem como meus próprios projetos.
+>🎓 Estudante de Ciência da Computação — UFRPE
+>
+>💻 Focado em Backend, Análise de Dados e Inteligência Artificial
+>
+>📍 Recife - PE
 
+Atualmente construindo projetos práticos com:
+
+[Python](https://github.com/joao-vmoraes/Introducao-a-Python "Python") e [SQL](https://github.com/joao-vmoraes/Learning-SQL "SQL")
+
+**Estrutura de dados** e **POO**
+
+**Docker** e **bancos relacionais**
+
+Projetos voltados para backend e IA
+
+Aqui você encontrará meus projetos, estudos e evolução constante como desenvolvedor.
 
 
 
